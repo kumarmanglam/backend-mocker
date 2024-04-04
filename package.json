@@ -1,0 +1,21 @@
+{
+  "name": "backend-mocker",
+  "version": "1.0.6",
+  "description": "Qickly create mock backend servers for various databases such as MongoDB, MySQL, and PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["backend","ready to use backend","mongodb", "express", "mysql", "postgresql"],
+  "author": "Kumar Manglam",
+  "license": "MIT",
+  "repository": "expressjs/express",
+  "homepage": "http://expressjs.com/",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "mysql2": "^3.9.3",
+    "pg": "^8.11.5",
+    "sequelize": "^6.37.2"
+  }
+}
